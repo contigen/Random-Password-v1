@@ -10,6 +10,8 @@ body {
   justify-content: center;
   min-height: 100vh;
   background: lightcoral;
+  background: linear-gradient(to bottom right, rgb(202, 216, 215), lightcoral);
+
 }
 .container {
   position: relative;
